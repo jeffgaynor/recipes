@@ -2,13 +2,11 @@
 category: Appetizers
 title: Baked Stuffed Jalapeños
 image: baked-stuffed-jalapenos.png
+description: Jalapeños Peppers stuffed with cheese and bacon make a great appetizer for a crowd! They're easy to prep ahead and then throw a batch in the oven when people get hungry.
+keywords: stuffed peppers, jalapeño poppers, baked, appetizers
+published: Monday, 28 Mar 2022 12:00:00 GMT
 time: 30
-posted: Monday, 28 Mar 2022 12:00:00 GMT
 ---
-
-## Description
-
-Jalapeños Peppers stuffed with cheese and bacon make a great appetizer for a crowd! They're easy to prep ahead and then throw a batch in the oven when people get hungry.
 
 ## Ingredients
 

@@ -2,13 +2,11 @@
 category: Appetizers
 title: Buffalo Wings
 image: buffalo-wings.png
+description: Oven-Baked Buffalo Wings! Here's an easier and less messy way to make Buffalo Wings. Marinate your wings in a spicy sauce, broil them briefly, then serve with a tangy blue cheese sauce.
+keywords: buffalo wings, chicken wings, blue cheese, appetizers
+published: Monday, 28 Mar 2022 00:00:0 GMT
 time: 45
-posted: Monday, 28 Mar 2022 00:00:0 GMT
 ---
-
-## Description
-
-Oven-Baked Buffalo Wings! Here's an easier and less messy way to make Buffalo Wings. Marinate your wings in a spicy sauce, broil them briefly, then serve with a tangy blue cheese sauce.
 
 ## Ingredients
 

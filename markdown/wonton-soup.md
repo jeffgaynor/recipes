@@ -2,13 +2,11 @@
 category: Dinner
 title: Wonton Soup
 image: wonton-soup.png
+description: On chilly days, these delicate one-bite pork wontons served in a soothing chicken broth will warm you through.
+keywords: wonton soup, chicken borth, dinner
+published: Tuesday, 29 Mar 2022 20:00:00 GMT
 time: 90
-posted: Tuesday, 29 Mar 2022 20:00:00 GMT
 ---
-
-## Description
-
-On chilly days, these delicate one-bite pork wontons served in a soothing chicken broth will warm you through.
 
 ## Ingredients
 
