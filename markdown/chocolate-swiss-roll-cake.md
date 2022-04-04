@@ -2,13 +2,11 @@
 category: Desserts
 title: Chocolate Swiss Roll Cake
 image: chocolate-swiss-roll-cake.png
+description: This chocolate sponge cake is filled with whipped cream and coated in a thin layer of ganache to create the perfect chocolate swiss roll. All of your childhood dreams definitely just came true.
+keywords: chocolate, swiss roll cake, sponge cake, desserts
+published: Sunday, 27 Mar 2022 00:00:00 GMT
 time: 45
-posted: Sunday, 27 Mar 2022 00:00:00 GMT
 ---
-
-## Description
-
-This chocolate sponge cake is filled with whipped cream and coated in a thin layer of ganache to create the perfect chocolate swiss roll. All of your childhood dreams definitely just came true.
 
 ## Ingredients
 
